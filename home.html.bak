@@ -1,0 +1,710 @@
+<!DOCTYPE html>
+<html lang="en" class="no-js">
+<head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"> 
+    <meta name="viewport" content="width=device-width, initial-scale=1"> 
+    <title>HOME</title>
+    <meta name="description" content="Examples for creative website header animations using Canvas and JavaScript" />
+    <meta name="keywords" content="header, canvas, animated, creative, inspiration, javascript" />
+    <meta name="author" content="Codrops" />
+    <link rel="shortcut icon" href="../favicon.ico">
+    <link rel="stylesheet" type="text/css" href="css/normalize.css" />
+    <link rel="stylesheet" type="text/css" href="css/demo.css" />
+    <link rel="stylesheet" type="text/css" href="css/component.css" />
+    <link href='http://fonts.googleapis.com/css?family=Raleway:200,400,800|Clicker+Script' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" href="https://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.css">
+    <link rel="stylesheet" type="text/css" href="engine0/style.css" />
+    
+<script src="https://code.jquery.com/jquery-1.11.3.min.js"></script>
+<!--script src="https://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.js"></script-->
+    <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js">></script>
+        <!--[if IE]>
+        	<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+            <![endif]-->
+        
+	<!-- Start WOWSlider.com HEAD section --> <!-- add to the <head> of your page -->
+	<!--script type="text/javascript" src="engine0/jquery.js"></script-->
+	<!-- End WOWSlider.com HEAD section -->
+	<!-- Start WOWSlider.com HEAD section --> <!-- add to the <head> of your page -->
+	<link rel="stylesheet" type="text/css" href="engine1/style.css" />
+	<!--script type="text/javascript" src="engine1/jquery.js"></script-->
+	<!-- End WOWSlider.com HEAD section -->
+	<!-- Start WOWSlider.com HEAD section --> <!-- add to the <head> of your page -->
+	<link rel="stylesheet" type="text/css" href="engine2/style.css" />
+	<!--script type="text/javascript" src="engine2/jquery.js"></script-->
+	<!-- End WOWSlider.com HEAD section -->
+	<!-- Start WOWSlider.com HEAD section --> <!-- add to the <head> of your page -->
+	<link rel="stylesheet" type="text/css" href="engine3/style.css" />
+	<!--script type="text/javascript" src="engine3/jquery.js"></script-->
+	<!-- End WOWSlider.com HEAD section -->
+	<!-- Start WOWSlider.com HEAD section --> <!-- add to the <head> of your page -->
+	<link rel="stylesheet" type="text/css" href="engine4/style.css" />
+	<!--script type="text/javascript" src="engine4/jquery.js"></script-->
+	<!-- End WOWSlider.com HEAD section -->
+	<!-- Start WOWSlider.com HEAD section --> <!-- add to the <head> of your page -->
+	<link rel="stylesheet" type="text/css" href="engine5/style.css" />
+	<!--script type="text/javascript" src="engine5/jquery.js"></script-->
+	<!-- End WOWSlider.com HEAD section -->
+	<!-- Start WOWSlider.com HEAD section --> <!-- add to the <head> of your page -->
+	<link rel="stylesheet" type="text/css" href="engine6/style.css" />
+	<!--script type="text/javascript" src="engine6/jquery.js"></script-->
+	<!-- End WOWSlider.com HEAD section --></head>
+        <body>
+          <div class="container demo-2">
+           <div class="content">
+            <div id="large-header" class="large-header">
+                <img src="img/logo.png" style="width: 100px;height: 70px">
+                <center><div class="containers">
+                    <div class="sec1" id="k1">
+                        <h1>STUDENT'S GYMKHANA COUNCIL</h1>
+                        <div id="cont">
+                          <div class="left" id="style-1">
+                        <button class="accordion">Branches</button>
+<div class="panel">
+  <ul data-role="listview" class="link">
+      <li><a href="#">CSE</a></li>
+      <li><a href="#">MnC</a></li>
+      <li><a href="#">ECE</a></li>
+      <li><a href="#">EEE</a></li>
+      <li><a href="#">ME</a></li>
+      <li><a href="#">DD</a></li>
+      <li><a href="#">CL</a></li>
+      <li><a href="#">CST</a></li>
+      <li><a href="#">BT</a></li>
+      <li><a href="#">EP</a></li>
+    </ul>
+</div>
+
+<button class="accordion">Centers</button>
+<div class="panel">
+<ul data-role="listview" class="link">
+      <li><a href="#">Adele</a></li>
+      <li><a href="#">Agnes</a></li>
+    </ul>
+</div>
+
+<button class="accordion">Facilities</button>
+<div class="panel">
+<ul data-role="listview" class="link">
+      <li><a href="#">Adele</a></li>
+      <li><a href="#">Agnes</a></li>
+    </ul>
+</div>
+<button class="accordion">Ordinances</button>
+<div class="panel">
+<ul data-role="listview" class="link">
+      <li><a href="#">Adele</a></li>
+      <li><a href="#">Agnes</a></li>
+    </ul>
+</div>
+<button class="accordion">Financial</button>
+<div class="panel">
+<ul data-role="listview" class="link">
+      <li><a href="#">Adele</a></li>
+      <li><a href="#">Agnes</a></li>
+    </ul>
+</div>
+<button class="accordion">Plaecments</button>
+<div class="panel">
+<ul data-role="listview" class="link">
+      <li><a href="#">Adele</a></li>
+      <li><a href="#">Agnes</a></li>
+    </ul>
+</div>
+<button class="accordion">Student Academic Board</button>
+<div class="panel">
+<ul data-role="listview" class="link">
+      <li><a href="#">Adele</a></li>
+      <li><a href="#">Agnes</a></li>
+    </ul>
+</div>
+                        </div>
+                    <div class="right">
+	<!-- Start WOWSlider.com BODY section --> <!-- add to the <body> of your page -->
+	<div id="wowslider-container0">
+	<div class="ws_images"><ul>
+		<li><img src="data0/images/demo1bg.jpg" alt="demo-1-bg" title="demo-1-bg" id="wows0_0"/></li>
+		<li><img src="data0/images/demo2bg.jpg" alt="demo-2-bg" title="demo-2-bg" id="wows0_1"/></li>
+		<li><img src="data0/images/iitg_1.jpg" alt="IITG_1" title="IITG_1" id="wows0_2"/></li>
+		<li><a href="http://wowslider.com"><img src="data0/images/iitg_2.jpg" alt="bootstrap carousel" title="IITG_2" id="wows0_3"/></a></li>
+		<li><img src="data0/images/iitg_3.jpg" alt="IITG_3" title="IITG_3" id="wows0_4"/></li>
+	</ul></div>
+	<div class="ws_bullets"><div>
+		<a href="#" title="demo-1-bg"><span><img src="data0/tooltips/demo1bg.jpg" alt="demo-1-bg"/>1</span></a>
+		<a href="#" title="demo-2-bg"><span><img src="data0/tooltips/demo2bg.jpg" alt="demo-2-bg"/>2</span></a>
+		<a href="#" title="IITG_1"><span><img src="data0/tooltips/iitg_1.jpg" alt="IITG_1"/>3</span></a>
+		<a href="#" title="IITG_2"><span><img src="data0/tooltips/iitg_2.jpg" alt="IITG_2"/>4</span></a>
+		<a href="#" title="IITG_3"><span><img src="data0/tooltips/iitg_3.jpg" alt="IITG_3"/>5</span></a>
+	</div></div><div class="ws_script" style="position:absolute;left:-99%"><a href="http://wowslider.com">http://wowslider.com/</a> by WOWSlider.com v8.7</div>
+	<div class="ws_shadow"></div>
+	</div>	
+	<!-- End WOWSlider.com BODY section -->
+
+                </div>
+            </div>
+
+        </div>
+        <div class="sec1" id="k2">
+            <h1>CAMPUS</h1>
+            <div id="cont">
+                          <div class="left" id="style-1">
+                        <button class="accordion">Exploring Campus</button>
+
+<button class="accordion">Facilities</button>
+<div class="panel">
+<ul data-role="listview" class="link">
+      <li><a href="#">Guest House</a></li>
+      <li><a href="#">Inter Bus</a></li>
+      <li><a href="#">Intra Bus</a></li>
+      <li><a href="#">Old SAC</a></li>
+      <li><a href="#">New SAC</a></li>
+      <li><a href="#">Sports</a></li>
+      <li><a href="#">Restaurants</a></li>
+      <li><a href="#">E-Rickshaw</a></li>
+    </ul>
+</div>
+
+<button class="accordion">Places of Interest</button>
+<div class="panel">
+<ul data-role="listview" class="link">
+      <li><a href="#">View Point</a></li>
+      <li><a href="#">Outside IIT</a></li>
+    </ul>
+</div>
+<button class="accordion">Campus Map</button>
+                        </div>
+                    <div class="right">
+	<!-- Start WOWSlider.com BODY section --> <!-- add to the <body> of your page -->
+	<div id="wowslider-container1">
+	<div class="ws_images"><ul>
+		<li><img src="data1/images/demo1bg.jpg" alt="demo-1-bg" title="demo-1-bg" id="wows1_0"/></li>
+		<li><img src="data1/images/demo2bg.jpg" alt="demo-2-bg" title="demo-2-bg" id="wows1_1"/></li>
+		<li><img src="data1/images/iitg_1.jpg" alt="IITG_1" title="IITG_1" id="wows1_2"/></li>
+		<li><a href="http://wowslider.net"><img src="data1/images/iitg_2.jpg" alt="http://wowslider.net/" title="IITG_2" id="wows1_3"/></a></li>
+		<li><img src="data1/images/iitg_3.jpg" alt="IITG_3" title="IITG_3" id="wows1_4"/></li>
+	</ul></div>
+	<div class="ws_bullets"><div>
+		<a href="#" title="demo-1-bg"><span><img src="data1/tooltips/demo1bg.jpg" alt="demo-1-bg"/>1</span></a>
+		<a href="#" title="demo-2-bg"><span><img src="data1/tooltips/demo2bg.jpg" alt="demo-2-bg"/>2</span></a>
+		<a href="#" title="IITG_1"><span><img src="data1/tooltips/iitg_1.jpg" alt="IITG_1"/>3</span></a>
+		<a href="#" title="IITG_2"><span><img src="data1/tooltips/iitg_2.jpg" alt="IITG_2"/>4</span></a>
+		<a href="#" title="IITG_3"><span><img src="data1/tooltips/iitg_3.jpg" alt="IITG_3"/>5</span></a>
+	</div></div><div class="ws_script" style="position:absolute;left:-99%"><a href="http://wowslider.com">http://wowslider.com/</a> by WOWSlider.com v8.7</div>
+	<div class="ws_shadow"></div>
+	</div>	
+	<script type="text/javascript" src="engine1/wowslider.js"></script>
+	<script type="text/javascript" src="engine1/script.js"></script>
+	<!-- End WOWSlider.com BODY section -->
+                       
+                </div>
+            </div>
+        </div>
+        <div class="sec1" id="k3">
+            <h1>HOSTELS</h1>
+            <div id="cont">
+                          <div class="left" id="style-1">
+                          <button class="accordion">About</button>
+                        <button class="accordion">Facilities</button>
+<div class="panel">
+  <ul data-role="listview" class="link">
+      <li><a href="#">TV Room</a></li>
+      <li><a href="#">Sports room</a></li>
+      <li><a href="#">Pantry</a></li>
+      <li><a href="#">Gym</a></li>
+      <li><a href="#">Canteen</a></li>
+      <li><a href="#">DD</a></li>
+      <li><a href="#">Juice Center</a></li>
+      <li><a href="#">Mess</a></li>
+    </ul>
+</div>
+
+
+
+<button class="accordion">HMC</button>
+<div class="panel">
+<ul data-role="listview" class="link">
+      <li><a href="#">Structure and details</a></li>
+    </ul>
+</div>
+                        </div>
+                    <div class="right">
+	<!-- Start WOWSlider.com BODY section --> <!-- add to the <body> of your page -->
+	<div id="wowslider-container2">
+	<div class="ws_images"><ul>
+		<li><img src="data2/images/demo1bg.jpg" alt="demo-1-bg" title="demo-1-bg" id="wows2_0"/></li>
+		<li><img src="data2/images/demo2bg.jpg" alt="demo-2-bg" title="demo-2-bg" id="wows2_1"/></li>
+		<li><img src="data2/images/iitg_1.jpg" alt="IITG_1" title="IITG_1" id="wows2_2"/></li>
+		<li><a href="http://wowslider.net"><img src="data2/images/iitg_2.jpg" alt="http://wowslider.net/" title="IITG_2" id="wows2_3"/></a></li>
+		<li><img src="data2/images/iitg_3.jpg" alt="IITG_3" title="IITG_3" id="wows2_4"/></li>
+	</ul></div>
+	<div class="ws_bullets"><div>
+		<a href="#" title="demo-1-bg"><span><img src="data2/tooltips/demo1bg.jpg" alt="demo-1-bg"/>1</span></a>
+		<a href="#" title="demo-2-bg"><span><img src="data2/tooltips/demo2bg.jpg" alt="demo-2-bg"/>2</span></a>
+		<a href="#" title="IITG_1"><span><img src="data2/tooltips/iitg_1.jpg" alt="IITG_1"/>3</span></a>
+		<a href="#" title="IITG_2"><span><img src="data2/tooltips/iitg_2.jpg" alt="IITG_2"/>4</span></a>
+		<a href="#" title="IITG_3"><span><img src="data2/tooltips/iitg_3.jpg" alt="IITG_3"/>5</span></a>
+	</div></div><div class="ws_script" style="position:absolute;left:-99%"><a href="http://wowslider.com">http://wowslider.com/</a> by WOWSlider.com v8.7</div>
+	<div class="ws_shadow"></div>
+	</div>	
+	<script type="text/javascript" src="engine2/wowslider.js"></script>
+	<script type="text/javascript" src="engine2/script.js"></script>
+	<!-- End WOWSlider.com BODY section -->
+                       
+                </div>
+            </div>
+        </div>
+        <div class="sec1" id="k4">
+            <h1>ACADEMICS</h1>
+            <div id="cont">
+                          <div class="left" id="style-1">
+                        <button class="accordion">Branches</button>
+<div class="panel">
+  <ul data-role="listview" class="link">
+      <li><a href="#">CSE</a></li>
+      <li><a href="#">MnC</a></li>
+      <li><a href="#">ECE</a></li>
+      <li><a href="#">EEE</a></li>
+      <li><a href="#">ME</a></li>
+      <li><a href="#">DD</a></li>
+      <li><a href="#">CL</a></li>
+      <li><a href="#">CST</a></li>
+      <li><a href="#">BT</a></li>
+      <li><a href="#">EP</a></li>
+    </ul>
+</div>
+
+<button class="accordion">Centers</button>
+<div class="panel">
+<ul data-role="listview" class="link">
+      <li><a href="#">CCD</a></li>
+      <li><a href="#">CC</a></li>
+      <li><a href="#">CET</a></li>
+      <li><a href="#">CIF</a></li>
+      <li><a href="#">CCC</a></li>
+    </ul>
+</div>
+
+<button class="accordion">Facilities</button>
+<div class="panel">
+<ul data-role="listview" class="link">
+      <li><a href="#">PARAM ISHAN</a></li>
+      <li><a href="#">COMPUTER CENTER</a></li>
+      <li><a href="#">LIBRARY</a></li>
+    </ul>
+</div>
+<button class="accordion">Ordinances</button>
+<div class="panel">
+<ul data-role="listview" class="link">
+      <li><a href="#">BRANCH CHANGE</a></li>
+      <li><a href="#">MINOR</a></li>
+      <li><a href="#">RULES</a></li>
+    </ul>
+</div>
+<button class="accordion">Financial</button>
+<div class="panel">
+<ul data-role="listview" class="link">
+      <li><a href="#">Fees</a></li>
+      <li><a href="#">SCHOLARSHIP</a></li>
+      <li><a href="#">LOANS</a></li>
+    </ul>
+</div>
+<button class="accordion">Plaecments</button>
+<div class="panel">
+<ul data-role="listview" class="link">
+      <li><a href="#">DEPARTMENT WISE</a></li>
+    </ul>
+</div>
+<button class="accordion">Student Academic Board</button>
+                        </div>
+                    <div class="right">
+	<!-- Start WOWSlider.com BODY section --> <!-- add to the <body> of your page -->
+	<div id="wowslider-container3">
+	<div class="ws_images"><ul>
+		<li><img src="data3/images/demo1bg.jpg" alt="demo-1-bg" title="demo-1-bg" id="wows3_0"/></li>
+		<li><img src="data3/images/demo2bg.jpg" alt="demo-2-bg" title="demo-2-bg" id="wows3_1"/></li>
+		<li><img src="data3/images/iitg_1.jpg" alt="IITG_1" title="IITG_1" id="wows3_2"/></li>
+		<li><a href="http://wowslider.net"><img src="data3/images/iitg_2.jpg" alt="jquery slider" title="IITG_2" id="wows3_3"/></a></li>
+		<li><img src="data3/images/iitg_3.jpg" alt="IITG_3" title="IITG_3" id="wows3_4"/></li>
+	</ul></div>
+	<div class="ws_bullets"><div>
+		<a href="#" title="demo-1-bg"><span><img src="data3/tooltips/demo1bg.jpg" alt="demo-1-bg"/>1</span></a>
+		<a href="#" title="demo-2-bg"><span><img src="data3/tooltips/demo2bg.jpg" alt="demo-2-bg"/>2</span></a>
+		<a href="#" title="IITG_1"><span><img src="data3/tooltips/iitg_1.jpg" alt="IITG_1"/>3</span></a>
+		<a href="#" title="IITG_2"><span><img src="data3/tooltips/iitg_2.jpg" alt="IITG_2"/>4</span></a>
+		<a href="#" title="IITG_3"><span><img src="data3/tooltips/iitg_3.jpg" alt="IITG_3"/>5</span></a>
+	</div></div><div class="ws_script" style="position:absolute;left:-99%"><a href="http://wowslider.com/vi">css slider</a> by WOWSlider.com v8.7</div>
+	<div class="ws_shadow"></div>
+	</div>	
+	<script type="text/javascript" src="engine3/wowslider.js"></script>
+	<script type="text/javascript" src="engine3/script.js"></script>
+	<!-- End WOWSlider.com BODY section -->
+                       <ul>
+                        <li>Branches</li>
+                        <li>Ordinances</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <div class="sec1" id="k5">
+            <h1>REACHING GUWAHATI</h1>
+            <div id="cont">
+                          <div class="left" id="style-1">
+                        <button class="accordion">Regional Contacts</button>
+                        <button class="accordion">Travel to Guwahti</button>
+                        <button class="accordion">Guwahati to IITG</button>
+                        <button class="accordion">Hotels</button>
+
+<button class="accordion">Centers</button>
+<div class="panel">
+<ul data-role="listview" class="link">
+      <li><a href="#">Adele</a></li>
+      <li><a href="#">Agnes</a></li>
+    </ul>
+</div>
+
+<button class="accordion">Facilities</button>
+<div class="panel">
+<ul data-role="listview" class="link">
+      <li><a href="#">Adele</a></li>
+      <li><a href="#">Agnes</a></li>
+    </ul>
+</div>
+<button class="accordion">Ordinances</button>
+<div class="panel">
+<ul data-role="listview" class="link">
+      <li><a href="#">Adele</a></li>
+      <li><a href="#">Agnes</a></li>
+    </ul>
+</div>
+<button class="accordion">Financial</button>
+<div class="panel">
+<ul data-role="listview" class="link">
+      <li><a href="#">Adele</a></li>
+      <li><a href="#">Agnes</a></li>
+    </ul>
+</div>
+<button class="accordion">Plaecments</button>
+<div class="panel">
+<ul data-role="listview" class="link">
+      <li><a href="#">Adele</a></li>
+      <li><a href="#">Agnes</a></li>
+    </ul>
+</div>
+<button class="accordion">Student Academic Board</button>
+<div class="panel">
+<ul data-role="listview" class="link">
+      <li><a href="#">Adele</a></li>
+      <li><a href="#">Agnes</a></li>
+    </ul>
+</div>
+                        </div>
+                    <div class="right">
+	<!-- Start WOWSlider.com BODY section --> <!-- add to the <body> of your page -->
+	<div id="wowslider-container4">
+	<div class="ws_images"><ul>
+		<li><img src="data4/images/demo1bg.jpg" alt="demo-1-bg" title="demo-1-bg" id="wows4_0"/></li>
+		<li><img src="data4/images/demo2bg.jpg" alt="demo-2-bg" title="demo-2-bg" id="wows4_1"/></li>
+		<li><img src="data4/images/iitg_1.jpg" alt="IITG_1" title="IITG_1" id="wows4_2"/></li>
+		<li><a href="http://wowslider.com"><img src="data4/images/iitg_2.jpg" alt="wowslider" title="IITG_2" id="wows4_3"/></a></li>
+		<li><img src="data4/images/iitg_3.jpg" alt="IITG_3" title="IITG_3" id="wows4_4"/></li>
+	</ul></div>
+	<div class="ws_bullets"><div>
+		<a href="#" title="demo-1-bg"><span><img src="data4/tooltips/demo1bg.jpg" alt="demo-1-bg"/>1</span></a>
+		<a href="#" title="demo-2-bg"><span><img src="data4/tooltips/demo2bg.jpg" alt="demo-2-bg"/>2</span></a>
+		<a href="#" title="IITG_1"><span><img src="data4/tooltips/iitg_1.jpg" alt="IITG_1"/>3</span></a>
+		<a href="#" title="IITG_2"><span><img src="data4/tooltips/iitg_2.jpg" alt="IITG_2"/>4</span></a>
+		<a href="#" title="IITG_3"><span><img src="data4/tooltips/iitg_3.jpg" alt="IITG_3"/>5</span></a>
+	</div></div><div class="ws_script" style="position:absolute;left:-99%"><a href="http://wowslider.com/vi">css slider</a> by WOWSlider.com v8.7</div>
+	<div class="ws_shadow"></div>
+	</div>	
+	<script type="text/javascript" src="engine4/wowslider.js"></script>
+	<script type="text/javascript" src="engine4/script.js"></script>
+	<!-- End WOWSlider.com BODY section -->
+                       <ul>
+                        <li>Branches</li>
+                        <li>Ordinances</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <div class="sec1" id="k6">
+            <h1>REGISTRATION HELP</h1>
+            <div id="cont">
+                          <div class="left" id="style-1">
+                        <button class="accordion">Branches</button>
+<div class="panel">
+  <ul data-role="listview" class="link">
+      <li><a href="#">CSE</a></li>
+      <li><a href="#">MnC</a></li>
+      <li><a href="#">ECE</a></li>
+      <li><a href="#">EEE</a></li>
+      <li><a href="#">ME</a></li>
+      <li><a href="#">DD</a></li>
+      <li><a href="#">CL</a></li>
+      <li><a href="#">CST</a></li>
+      <li><a href="#">BT</a></li>
+      <li><a href="#">EP</a></li>
+    </ul>
+</div>
+
+<button class="accordion">Centers</button>
+<div class="panel">
+<ul data-role="listview" class="link">
+      <li><a href="#">Adele</a></li>
+      <li><a href="#">Agnes</a></li>
+    </ul>
+</div>
+
+<button class="accordion">Facilities</button>
+<div class="panel">
+<ul data-role="listview" class="link">
+      <li><a href="#">Adele</a></li>
+      <li><a href="#">Agnes</a></li>
+    </ul>
+</div>
+<button class="accordion">Ordinances</button>
+<div class="panel">
+<ul data-role="listview" class="link">
+      <li><a href="#">Adele</a></li>
+      <li><a href="#">Agnes</a></li>
+    </ul>
+</div>
+<button class="accordion">Financial</button>
+<div class="panel">
+<ul data-role="listview" class="link">
+      <li><a href="#">Adele</a></li>
+      <li><a href="#">Agnes</a></li>
+    </ul>
+</div>
+<button class="accordion">Plaecments</button>
+<div class="panel">
+<ul data-role="listview" class="link">
+      <li><a href="#">Adele</a></li>
+      <li><a href="#">Agnes</a></li>
+    </ul>
+</div>
+<button class="accordion">Student Academic Board</button>
+<div class="panel">
+<ul data-role="listview" class="link">
+      <li><a href="#">Adele</a></li>
+      <li><a href="#">Agnes</a></li>
+    </ul>
+</div>
+                        </div>
+                    <div class="right">
+	<!-- Start WOWSlider.com BODY section --> <!-- add to the <body> of your page -->
+	<div id="wowslider-container5">
+	<div class="ws_images"><ul>
+		<li><img src="data5/images/demo1bg.jpg" alt="demo-1-bg" title="demo-1-bg" id="wows5_0"/></li>
+		<li><img src="data5/images/demo2bg.jpg" alt="demo-2-bg" title="demo-2-bg" id="wows5_1"/></li>
+		<li><img src="data5/images/iitg_1.jpg" alt="IITG_1" title="IITG_1" id="wows5_2"/></li>
+		<li><a href="http://wowslider.com/vi"><img src="data5/images/iitg_2.jpg" alt="css slider" title="IITG_2" id="wows5_3"/></a></li>
+		<li><img src="data5/images/iitg_3.jpg" alt="IITG_3" title="IITG_3" id="wows5_4"/></li>
+	</ul></div>
+	<div class="ws_bullets"><div>
+		<a href="#" title="demo-1-bg"><span><img src="data5/tooltips/demo1bg.jpg" alt="demo-1-bg"/>1</span></a>
+		<a href="#" title="demo-2-bg"><span><img src="data5/tooltips/demo2bg.jpg" alt="demo-2-bg"/>2</span></a>
+		<a href="#" title="IITG_1"><span><img src="data5/tooltips/iitg_1.jpg" alt="IITG_1"/>3</span></a>
+		<a href="#" title="IITG_2"><span><img src="data5/tooltips/iitg_2.jpg" alt="IITG_2"/>4</span></a>
+		<a href="#" title="IITG_3"><span><img src="data5/tooltips/iitg_3.jpg" alt="IITG_3"/>5</span></a>
+	</div></div><div class="ws_script" style="position:absolute;left:-99%"><a href="http://wowslider.com/vi">css slider</a> by WOWSlider.com v8.7</div>
+	<div class="ws_shadow"></div>
+	</div>	
+	<script type="text/javascript" src="engine5/wowslider.js"></script>
+	<script type="text/javascript" src="engine5/script.js"></script>
+	<!-- End WOWSlider.com BODY section -->
+                       <ul>
+                        <li>Branches</li>
+                        <li>Ordinances</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <div class="sec1" id="k7">
+            <h1>IMPORTANT LINKS</h1>
+            <div id="cont">
+                          <div class="left" id="style-1">
+                        <button class="accordion">Branches</button>
+<div class="panel">
+  <ul data-role="listview" class="link">
+      <li><a href="#">CSE</a></li>
+      <li><a href="#">MnC</a></li>
+      <li><a href="#">ECE</a></li>
+      <li><a href="#">EEE</a></li>
+      <li><a href="#">ME</a></li>
+      <li><a href="#">DD</a></li>
+      <li><a href="#">CL</a></li>
+      <li><a href="#">CST</a></li>
+      <li><a href="#">BT</a></li>
+      <li><a href="#">EP</a></li>
+    </ul>
+</div>
+
+<button class="accordion">Centers</button>
+<div class="panel">
+<ul data-role="listview" class="link">
+      <li><a href="#">Adele</a></li>
+      <li><a href="#">Agnes</a></li>
+    </ul>
+</div>
+
+<button class="accordion">Facilities</button>
+<div class="panel">
+<ul data-role="listview" class="link">
+      <li><a href="#">Adele</a></li>
+      <li><a href="#">Agnes</a></li>
+    </ul>
+</div>
+<button class="accordion">Ordinances</button>
+<div class="panel">
+<ul data-role="listview" class="link">
+      <li><a href="#">Adele</a></li>
+      <li><a href="#">Agnes</a></li>
+    </ul>
+</div>
+<button class="accordion">Financial</button>
+<div class="panel">
+<ul data-role="listview" class="link">
+      <li><a href="#">Adele</a></li>
+      <li><a href="#">Agnes</a></li>
+    </ul>
+</div>
+<button class="accordion">Plaecments</button>
+<div class="panel">
+<ul data-role="listview" class="link">
+      <li><a href="#">Adele</a></li>
+      <li><a href="#">Agnes</a></li>
+    </ul>
+</div>
+<button class="accordion">Student Academic Board</button>
+<div class="panel">
+<ul data-role="listview" class="link">
+      <li><a href="#">Adele</a></li>
+      <li><a href="#">Agnes</a></li>
+    </ul>
+</div>
+                        </div>
+                    <div class="right">
+	<!-- Start WOWSlider.com BODY section --> <!-- add to the <body> of your page -->
+	<div id="wowslider-container6">
+	<div class="ws_images"><ul>
+		<li><img src="data6/images/demo1bg.jpg" alt="demo-1-bg" title="demo-1-bg" id="wows6_0"/></li>
+		<li><img src="data6/images/demo2bg.jpg" alt="demo-2-bg" title="demo-2-bg" id="wows6_1"/></li>
+		<li><img src="data6/images/iitg_1.jpg" alt="IITG_1" title="IITG_1" id="wows6_2"/></li>
+		<li><a href="http://wowslider.com"><img src="data6/images/iitg_2.jpg" alt="bootstrap carousel" title="IITG_2" id="wows6_3"/></a></li>
+		<li><img src="data6/images/iitg_3.jpg" alt="IITG_3" title="IITG_3" id="wows6_4"/></li>
+	</ul></div>
+	<div class="ws_bullets"><div>
+		<a href="#" title="demo-1-bg"><span><img src="data6/tooltips/demo1bg.jpg" alt="demo-1-bg"/>1</span></a>
+		<a href="#" title="demo-2-bg"><span><img src="data6/tooltips/demo2bg.jpg" alt="demo-2-bg"/>2</span></a>
+		<a href="#" title="IITG_1"><span><img src="data6/tooltips/iitg_1.jpg" alt="IITG_1"/>3</span></a>
+		<a href="#" title="IITG_2"><span><img src="data6/tooltips/iitg_2.jpg" alt="IITG_2"/>4</span></a>
+		<a href="#" title="IITG_3"><span><img src="data6/tooltips/iitg_3.jpg" alt="IITG_3"/>5</span></a>
+	</div></div><div class="ws_script" style="position:absolute;left:-99%"><a href="http://wowslider.com/vi">css slider</a> by WOWSlider.com v8.7</div>
+	<div class="ws_shadow"></div>
+	</div>	
+	<script type="text/javascript" src="engine6/wowslider.js"></script>
+	<script type="text/javascript" src="engine6/script.js"></script>
+	<!-- End WOWSlider.com BODY section -->
+                       <ul>
+                        <li>Branches</li>
+                        <li>Ordinances</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <div class="sec1" id="k8">
+            <h1>CONTACTS</h1>
+            <div id="cont">
+                          <div class="left" id="style-1">
+                        <button class="accordion">Branches</button>
+<div class="panel">
+  <ul data-role="listview" class="link">
+      <li><a href="#">CSE</a></li>
+      <li><a href="#">MnC</a></li>
+      <li><a href="#">ECE</a></li>
+      <li><a href="#">EEE</a></li>
+      <li><a href="#">ME</a></li>
+      <li><a href="#">DD</a></li>
+      <li><a href="#">CL</a></li>
+      <li><a href="#">CST</a></li>
+      <li><a href="#">BT</a></li>
+      <li><a href="#">EP</a></li>
+    </ul>
+</div>
+
+<button class="accordion">Centers</button>
+<div class="panel">
+<ul data-role="listview" class="link">
+      <li><a href="#">Adele</a></li>
+      <li><a href="#">Agnes</a></li>
+    </ul>
+</div>
+
+<button class="accordion">Facilities</button>
+<div class="panel">
+<ul data-role="listview" class="link">
+      <li><a href="#">Adele</a></li>
+      <li><a href="#">Agnes</a></li>
+    </ul>
+</div>
+<button class="accordion">Ordinances</button>
+<div class="panel">
+<ul data-role="listview" class="link">
+      <li><a href="#">Adele</a></li>
+      <li><a href="#">Agnes</a></li>
+    </ul>
+</div>
+<button class="accordion">Financial</button>
+<div class="panel">
+<ul data-role="listview" class="link">
+      <li><a href="#">Adele</a></li>
+      <li><a href="#">Agnes</a></li>
+    </ul>
+</div>
+<button class="accordion">Plaecments</button>
+<div class="panel">
+<ul data-role="listview" class="link">
+      <li><a href="#">Adele</a></li>
+      <li><a href="#">Agnes</a></li>
+    </ul>
+</div>
+<button class="accordion">Student Academic Board</button>
+<div class="panel">
+<ul data-role="listview" class="link">
+      <li><a href="#">Adele</a></li>
+      <li><a href="#">Agnes</a></li>
+    </ul>
+</div>
+                        </div>
+                    <div class="right">
+                       <ul>
+                        <li>Branches</li>
+                        <li>Ordinances</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div></center>
+    <canvas id="demo-canvas"></canvas>
+    <div class="navbar">
+      <a id="show1" class="Popup" onmouseover="myFunction()"><span class="popuptext" id="myPopup">A Simple Popup!</span><img src="img/Asset 1.png" style="width: 30px;height: 40px"></a>
+      <a id="show2" class="Popup" onmouseover="myFunction()"><span class="popuptext" id="myPopup">A Simple Popup!</span><img src="img/Asset 2.png" style="width: 30px;height: 40px"></a>
+      <a id="show3" class="Popup" onmouseover="myFunction()"><span class="popuptext" id="myPopup">A Simple Popup!</span><img src="img/Asset 3.png" style="width: 30px;height: 40px"></a>
+      <a id="show4" class="Popup" onmouseover="myFunction()"><span class="popuptext" id="myPopup">A Simple Popup!</span><img src="img/Asset 4.png" style="width: 30px;height: 40px"></a>
+      <a id="show5" class="Popup" onmouseover="myFunction()"><span class="popuptext" id="myPopup">A Simple Popup!</span><img src="img/Asset 5.png" style="width: 30px;height: 40px"></a>
+      <a id="show6" class="Popup" onmouseover="myFunction()"><span class="popuptext" id="myPopup">A Simple Popup!</span><img src="img/Asset 6.png" style="width: 30px;height: 40px"></a>
+      <a id="show7" class="Popup" onmouseover="myFunction()"><span class="popuptext" id="myPopup">A Simple Popup!</span>Contact</a>
+      <a id="show8" class="Popup" onmouseover="myFunction()"><span class="popuptext" id="myPopup">A Simple Popup!</span>About</a>
+  </div>
+</div>
+</div>
+</div><!-- /container -->
+<script src="js/rAF.js"></script>
+<script src="js/demo-2.js"></script>
+<script type="text/javascript" src="engine0/wowslider.js"></script>
+    <script type="text/javascript" src="engine0/script.js"></script>
+
+</body>
+</html>
