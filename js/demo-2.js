@@ -4,6 +4,7 @@ $(document).ready(function(){
     $("#show9").click(function(){
         $(document.getElementById("k9")).fadeOut();
         $(document.getElementById("k8")).fadeOut();
+        $(document.getElementById("k10")).fadeIn();
     });$("#show1").click(function(){
         $(document.getElementById("k9")).fadeIn();
         $(document.getElementById("k1")).fadeIn();
@@ -14,6 +15,7 @@ $(document).ready(function(){
         $(document.getElementById("k5")).fadeOut();
         $(document.getElementById("k6")).fadeOut();
         $(document.getElementById("k7")).fadeOut();
+        $(document.getElementById("k10")).fadeOut();
     });
     $("#show2").click(function(){
         $(document.getElementById("k9")).fadeIn();
@@ -25,6 +27,7 @@ $(document).ready(function(){
         $(document.getElementById("k6")).fadeOut();
         $(document.getElementById("k7")).fadeOut();
         $(document.getElementById("k8")).fadeOut();
+        $(document.getElementById("k10")).fadeOut();
 
     });
     $("#show3").click(function(){
@@ -37,6 +40,7 @@ $(document).ready(function(){
         $(document.getElementById("k6")).fadeOut();
         $(document.getElementById("k7")).fadeOut();
         $(document.getElementById("k8")).fadeOut();
+        $(document.getElementById("k10")).fadeOut();
 
     });
     $("#show4").click(function(){
@@ -49,6 +53,7 @@ $(document).ready(function(){
         $(document.getElementById("k6")).fadeOut();
         $(document.getElementById("k7")).fadeOut();
         $(document.getElementById("k8")).fadeOut();
+        $(document.getElementById("k10")).fadeOut();
 
     });
      $("#show5").click(function(){
@@ -61,6 +66,7 @@ $(document).ready(function(){
         $(document.getElementById("k6")).fadeOut();
         $(document.getElementById("k7")).fadeOut();
         $(document.getElementById("k8")).fadeOut();
+        $(document.getElementById("k10")).fadeOut();
 
     });
       $("#show6").click(function(){
@@ -73,6 +79,7 @@ $(document).ready(function(){
         $(document.getElementById("k1")).fadeOut();
         $(document.getElementById("k7")).fadeOut();
         $(document.getElementById("k8")).fadeOut();
+        $(document.getElementById("k10")).fadeOut();
 
     });
        $("#show7").click(function(){
@@ -85,11 +92,7 @@ $(document).ready(function(){
         $(document.getElementById("k6")).fadeOut();
         $(document.getElementById("k1")).fadeOut();
         $(document.getElementById("k8")).fadeOut();
-        
-    });
-       $("#show8").click(function(){
-        $(document.getElementById("k9")).fadeOut();
-                 $(document.getElementById("k8")).fadeIn();
+        $(document.getElementById("k10")).fadeOut();
         
     });
 });
